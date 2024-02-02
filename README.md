@@ -61,5 +61,7 @@ systemctl status memcached
 
 
 ### Ответ
+![4](44444.png)
 
+![5](55555.png)
 
